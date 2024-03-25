@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548148954151",
+    "project_id": "todo-appe-6005f",
+    "storage_bucket": "todo-appe-6005f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548148954151:android:acba526fd6f44ae326fa02",
+        "android_client_info": {
+          "package_name": "com.adilashraf.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548148954151-3feib0p4cjqu70gpbdsof5hllrcel52j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFSzEaI5lEBh8Kiqy31MK1eou4JH8orD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548148954151-3feib0p4cjqu70gpbdsof5hllrcel52j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
